@@ -1,0 +1,14 @@
+<web-app>
+    <display-name>Archetype Created Web Application</display-name>
+
+    <context-param>
+        <param-name>max-shop-cart-size</param-name>
+        <param-value>99</param-value>
+    </context-param>
+
+    <context-param>
+        <param-name>parametr-2</param-name>
+        <param-value>second</param-value>
+    </context-param>
+
+</web-app>
